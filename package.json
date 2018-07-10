@@ -11,7 +11,7 @@
     "start": "node index.js6",
     "server": "nodemon index.js6",
     "client": "npm run start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
   "author": "",
